@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT Input Checker</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Main Textarea styling */
+	#inputText {
+	    width: calc(100% - 50px);
+	    height: 270px;
+	    padding: 10px;
+	    border: 1px solid #ddd;
+	    border-radius: 5px;
+	    font-family: 'Open Sans', sans-serif;
+	    font-size: 16px;
+	    margin-bottom: 10px;
+	    resize: vertical; /* Allows users to adjust the height if they wish */
+	}
+
+	/* Character count and warning message styling */
+	#characterCount, #warningMessage {
+	    font-family: 'Open Sans', sans-serif;
+	    font-size: 14px;
+	    margin-bottom: 10px;
+	}
+
+	/* Clean Format button styling */
+	#main-content button {
+	    padding: 10px 20px;
+	    border: none;
+	    border-radius: 5px;
+	    background-color: #007BFF;
+	    color: #fff;
+	    cursor: pointer;
+	    font-family: 'Open Sans', sans-serif;
+	    font-size: 16px;
+	    transition: background-color 0.2s;
+	}
+
+	#main-content button:hover {
+	    background-color: #0056b3;
+	}
+
+	.copy-btn {
+	    position: relative;
+	    padding: 10px 15px;
+	    border: none;
+	    background-color: #ccc;
+	    cursor: pointer;
+	    min-width: 70px !important;  // Adjusted width to fit "Copied!" text
+	    background-image: none !important;
+	    display: inline-block;
+	    vertical-align: middle;
+	    transition: background-color 0.2s;  // Smooth transition for hover effect
+	}
+
+	.copy-btn:hover {
+	    font-weight: bold;
+	    background-color: #aaa;
+	}
+
+	.copy-btn i {
+	    font-size: 16px;
+	}
+
+	#splitResults {
+		margin-top: 30px;
+	}
+
+	#splitResults h4 {
+		display:inline-block;
+		margin-right: 15px;
+	}
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>ChatGPT Input Checker</h2>
+        <div class="clear"></div>
+        <textarea id="inputText" placeholder="Type or paste your ChatGPT input text here..." oninput="checkLength()"></textarea>
+        <div>
+            Length: <span id="characterCount">0 characters</span>
+        </div>
+        <div id="warningMessage" style="color: red;"></div>
+        <button onclick="cleanFormat()">Clean Format (to reduce text length)</button>
+        <button id="splitButton" onclick="splitText()">Split Text (for multiple prompts)</button>
+        <div id="splitResults"></div>
+    </div>
+
+    <script>
+        function checkLength() {
+	    let textArea = document.getElementById('inputText');
+	    let charCount = document.getElementById('characterCount');
+	    let warningMessage = document.getElementById('warningMessage');
+
+	    let textLength = textArea.value.length;
+	    charCount.textContent = textLength + ' characters' + ' (' + (20000 - textLength) + ' characters left)';
+
+	    if (textLength > 20000) {
+	        warningMessage.textContent = 'The text exceeds the ChatGPT limit (~20,000 characters)!';
+	    } else {
+	        warningMessage.textContent = '';
+	    }
+	}
+
+	function cleanFormat() {
+	    let textArea = document.getElementById('inputText');
+
+	    // Remove extra spaces.
+	    let cleanedText = textArea.value.replace(/\s+/g, ' ').trim();
+
+	    // Convert multiple line breaks to a single one.
+	    cleanedText = cleanedText.replace(/\n+/g, '\n');
+
+	    // Remove repeated punctuations.
+	    cleanedText = cleanedText.replace(/([!?.])\1+/g, '$1');
+
+	    textArea.value = cleanedText;
+	    checkLength();  // Update character count and warning message after cleaning.
+	}
+
+	function splitText() {
+	    const text = document.getElementById('inputText').value;
+	    const maxChars = 20000;
+	    let segments = [];
+	    let tempText = text;
+
+	    while (tempText.length > maxChars) {
+	        let segment = tempText.substr(0, maxChars);
+	        let lastSpaceIndex = segment.lastIndexOf(' ');
+
+	        // If there's a space within the last 100 characters, break there to avoid cutting sentences too abruptly
+	        if (lastSpaceIndex > maxChars - 100 && lastSpaceIndex !== -1) {
+	            segment = segment.substr(0, lastSpaceIndex);
+	        }
+
+	        segments.push(segment);
+	        tempText = tempText.substr(segment.length);
+	    }
+
+	    if (tempText) {
+	        segments.push(tempText);
+	    }
+
+	    // Display the results
+	    const resultDiv = document.getElementById('splitResults');
+		resultDiv.innerHTML = ''; // clear previous results
+
+		segments.forEach((segment, index) => {
+		    // Create a title for each segment
+		    const title = document.createElement('h4');
+		    title.textContent = `Segment ${index + 1}  `;
+		    resultDiv.appendChild(title);
+
+		    // Add the copy button next to each title
+		    const copyButton = document.createElement('button');
+			copyButton.setAttribute('type', 'button');
+			copyButton.setAttribute('title', 'Copy Segment');
+			copyButton.classList.add('copy-btn');
+			copyButton.textContent = 'Copy';  // Set initial text to "Copy"
+			copyButton.addEventListener('click', function() {
+			    const textToCopy = document.getElementById(`segmentTextarea${index}`).value;
+			    const textarea = document.createElement('textarea');
+			    document.body.appendChild(textarea);
+			    textarea.value = textToCopy;
+			    textarea.select();
+			    document.execCommand('copy');
+			    document.body.removeChild(textarea);
+
+			    // Provide feedback to the user
+			    this.textContent = 'Copied!';  // Change button text to "Copied!"
+			    setTimeout(() => {
+			        this.textContent = 'Copy';  // Revert back to "Copy" after 2 seconds
+			    }, 2000);
+			});
+		    resultDiv.appendChild(copyButton);
+
+		    // Create a textarea for each segment instead of divs
+		    const segmentTextarea = document.createElement('textarea');
+		    segmentTextarea.style.width = 'calc(100% - 60px)'; // Account for the copy button
+		    segmentTextarea.style.border = '1px solid #ddd';
+		    segmentTextarea.style.borderRadius = '5px';
+		    segmentTextarea.style.padding = '10px';
+		    segmentTextarea.style.marginTop = '10px';
+		    segmentTextarea.style.marginBottom = '30px';
+		    segmentTextarea.setAttribute('rows', '10'); // adjust as necessary
+		    segmentTextarea.id = `segmentTextarea${index}`;
+		    segmentTextarea.value = segment;
+		    resultDiv.appendChild(segmentTextarea);
+		});
+	}
+
+    </script>
+</body>
+
+</html>
+
