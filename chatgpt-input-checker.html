@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChatGPT Input Checker</title>
+    <title>ChatGPT-4 Input Checker</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <style>
         body {
@@ -92,7 +92,7 @@
 
 <body>
     <div class="container">
-        <h2>ChatGPT Input Checker</h2>
+        <h2>ChatGPT-4 Input Checker</h2>
         <div class="clear"></div>
         <textarea id="inputText" placeholder="Type or paste your ChatGPT input text here..." oninput="checkLength()"></textarea>
         <div>
@@ -105,20 +105,22 @@
     </div>
 
     <script>
+    	const CHATGPT_LIMIT = 30000; // Global variable for the character limit
+
         function checkLength() {
-	    let textArea = document.getElementById('inputText');
-	    let charCount = document.getElementById('characterCount');
-	    let warningMessage = document.getElementById('warningMessage');
+            let textArea = document.getElementById('inputText');
+            let charCount = document.getElementById('characterCount');
+            let warningMessage = document.getElementById('warningMessage');
 
-	    let textLength = textArea.value.length;
-	    charCount.textContent = textLength + ' characters' + ' (' + (20000 - textLength) + ' characters left)';
+            let textLength = textArea.value.length;
+            charCount.textContent = textLength + ' characters' + ' (' + (CHATGPT_LIMIT - textLength) + ' characters left)';
 
-	    if (textLength > 20000) {
-	        warningMessage.textContent = 'The text exceeds the ChatGPT limit (~20,000 characters)!';
-	    } else {
-	        warningMessage.textContent = '';
-	    }
-	}
+            if (textLength > CHATGPT_LIMIT) {
+                warningMessage.textContent = 'The text exceeds the ChatGPT-4 limit (~' + CHATGPT_LIMIT + ' characters)!';
+            } else {
+                warningMessage.textContent = '';
+            }
+        }
 
 	function cleanFormat() {
 	    let textArea = document.getElementById('inputText');
@@ -138,7 +140,7 @@
 
 	function splitText() {
 	    const text = document.getElementById('inputText').value;
-	    const maxChars = 20000;
+	    const maxChars = CHATGPT_LIMIT;
 	    let segments = [];
 	    let tempText = text;
 
