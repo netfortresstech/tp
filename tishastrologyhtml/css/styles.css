@@ -11783,7 +11783,7 @@ h2 {
 
 
 /* Projects */
-.tish-image-effect {position: relative;overflow: hidden; height: 210px;  margin: 20px;}
+.tish-image-effect {position: relative;overflow: hidden; margin: 20px;}
 .tish-image-effect:after {position: absolute;content: '';height: 100%;width: 100%;background-color: rgba(0, 0, 0, 0.8);-webkit-transition: opacity .25s ease-in-out;transition: opacity .3s ease-in-out;opacity: 0;top: 0;}
 .tish-image-effect:hover:after {opacity: 1;}
 .tish-image-effect .caption h3 {color: #fff;-webkit-transform: translateY(-20px);transform: translateY(-20px);-webkit-transition: all .5s ease-in-out;transition: all .5s ease-in-out;opacity: 0;top: 20px;position: absolute;left: 0;z-index: 10;text-align: center;margin: 0;padding: 0 25px;width: 100%;}
