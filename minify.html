@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minification Tool</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Main Textarea styling */
+    #inputText, #outputText {
+        width: calc(100% - 50px);
+        height: 270px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        margin-bottom: 10px;
+        resize: vertical; /* Allows users to adjust the height if they wish */
+    }
+
+    /* Character count and warning message styling */
+    #characterCount, #warningMessage {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    /* Clean Format button styling */
+    #main-content button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007BFF;
+        color: #fff;
+        cursor: pointer;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        transition: background-color 0.2s;
+    }
+
+    #main-content button:hover {
+        background-color: #0056b3;
+    }
+
+    .copy-btn {
+        position: relative;
+        padding: 10px 15px;
+        border: none;
+        background-color: #ccc;
+        cursor: pointer;
+        min-width: 70px !important;
+        display: inline-block;
+        vertical-align: middle;
+        transition: background-color 0.2s;
+    }
+
+    .copy-btn:hover {
+        font-weight: bold;
+        background-color: #aaa;
+    }
+
+    .copy-btn i {
+        font-size: 16px;
+    }
+
+    #splitResults {
+        margin-top: 30px;
+    }
+
+    #splitResults h4 {
+        display:inline-block;
+        margin-right: 15px;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Minification Tool</h2>
+        <div>
+            <label for="inputType">Input Type:</label>
+            <select id="inputType">
+                <option value="html">HTML</option>
+                <option value="css">CSS</option>
+                <option value="js">JavaScript</option>
+            </select>
+        </div>
+        <textarea id="inputText" placeholder="Paste your code here..." oninput="updateOutput()"></textarea>
+        <button onclick="minify()" class="copy-btn">Minify</button>
+        <div id="outputTitle">Minified Output:</div>
+        <textarea id="outputText" readonly></textarea>
+    </div>
+
+    <script>
+    function updateOutput() {
+        let inputText = document.getElementById('inputText').value;
+        let outputText = document.getElementById('outputText');
+        let inputType = document.getElementById('inputType').value;
+
+        if (inputType === 'html') {
+            outputText.value = minifyHTML(inputText);
+        } else if (inputType === 'css') {
+            outputText.value = minifyCSS(inputText);
+        } else if (inputType === 'js') {
+            outputText.value = minifyJS(inputText);
+        }
+    }
+
+    function minifyHTML(html) {
+        // Minify inline styles and scripts first
+        html = html.replace(/<style(.*?)>([\s\S]*?)<\/style>/g, function(_, attrs, content) {
+            return '<style' + attrs + '>' + minifyCSS(content) + '</' + 'style>';
+        });
+        html = html.replace(/<script(.*?)>([\s\S]*?)<\/script>/g, function(_, attrs, content) {
+            return '<script' + attrs + '>' + minifyJS(content) + '</' + 'script>';
+        });
+
+        // Now minify the HTML
+        html = html.replace(/<!--(.*?)-->/g, ''); // Remove HTML comments
+        html = html.replace(/\s+/g, ' ').replace(/> </g, '><').trim();
+
+        return html;
+    }
+
+
+
+
+    function minifyCSS(css) {
+        css = css.replace(/\/\*(.*?)\*\//g, '');  // Remove CSS comments
+        return css.replace(/\s+/g, ' ').replace(/;\s/g, ';').replace(/:\s/g, ':').replace(/,\s/g, ',').replace(/\{\s/g, '{').replace(/\}\s/g, '}').trim();
+    }
+
+    function minifyJS(js) {
+        js = js.replace(/\/\*(.*?)\*\//g, '');  // Remove block comments
+        js = js.replace(/\/\/(.*?)\n/g, '');   // Remove line comments
+        return js.replace(/\s+/g, ' ').trim();
+    }
+
+    function minify() {
+        updateOutput();
+    }
+</script>
+
+</body>
+
+</html>
