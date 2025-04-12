@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-04-07 15:19" -->
+	<!-- generator="WordPress/6.7.2" created="2025-04-12 21:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tishonator Demo</title>
 	<link>https://tishonator.com/demo1</link>
 	<description></description>
-	<pubDate>Mon, 07 Apr 2025 15:19:51 +0000</pubDate>
+	<pubDate>Sat, 12 Apr 2025 21:10:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://tishonator.com/demo1</wp:base_site_url>
@@ -574,7 +574,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/49/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/49/</link>
 		<pubDate>Wed, 02 Apr 2025 10:55:23 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=49</guid>
@@ -582,10 +582,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:55:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[49]]></wp:post_name>
@@ -597,6 +597,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[34]]></wp:meta_value>
 		</wp:postmeta>
@@ -630,12 +634,28 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/50/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/50/</link>
 		<pubDate>Wed, 02 Apr 2025 10:55:23 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=50</guid>
@@ -643,10 +663,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>50</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:55:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[50]]></wp:post_name>
@@ -658,6 +678,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
@@ -691,12 +715,28 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/51/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/51/</link>
 		<pubDate>Wed, 02 Apr 2025 10:55:24 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=51</guid>
@@ -704,10 +744,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:55:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[51]]></wp:post_name>
@@ -752,12 +792,32 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/52/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/52/</link>
 		<pubDate>Wed, 02 Apr 2025 10:55:24 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=52</guid>
@@ -765,10 +825,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:55:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[52]]></wp:post_name>
@@ -813,12 +873,32 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/53/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/53/</link>
 		<pubDate>Wed, 02 Apr 2025 10:56:45 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=53</guid>
@@ -826,10 +906,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 06:03:08]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 19:29:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:56:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 06:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 06:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 19:29:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 19:29:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[53]]></wp:post_name>
@@ -874,16 +954,28 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-03]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-02]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/54/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/54/</link>
 		<pubDate>Wed, 02 Apr 2025 10:56:45 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=54</guid>
@@ -891,10 +983,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>54</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 06:03:08]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 19:29:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:56:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 06:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 06:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 19:29:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 19:29:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[54]]></wp:post_name>
@@ -939,16 +1031,28 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-03]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-02]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/55/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/55/</link>
 		<pubDate>Wed, 02 Apr 2025 10:56:45 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=55</guid>
@@ -956,10 +1060,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 06:03:08]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 19:29:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:56:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 06:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 06:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 19:29:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 19:29:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[55]]></wp:post_name>
@@ -971,6 +1075,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="footer_menu"><![CDATA[footer_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
@@ -1004,16 +1112,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-02]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-03]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/56/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/56/</link>
 		<pubDate>Wed, 02 Apr 2025 10:56:45 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=56</guid>
@@ -1021,10 +1137,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 06:03:08]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 19:29:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:56:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 06:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 06:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 19:29:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 19:29:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[56]]></wp:post_name>
@@ -1036,6 +1152,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="footer_menu"><![CDATA[footer_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
@@ -1069,11 +1189,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-02]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025-04-03]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1333,60 +1461,36 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Galleries]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/galleries/</link>
-		<pubDate>Fri, 04 Apr 2025 06:03:44 +0000</pubDate>
-		<dc:creator><![CDATA[tisho2]]></dc:creator>
-		<guid isPermaLink="false">https://tishonator.com/demo1/?p=167</guid>
+		<title><![CDATA[woocommerce-placeholder]]></title>
+		<link>https://tishonator.com/demo1/woocommerce-placeholder/</link>
+		<pubDate>Thu, 10 Apr 2025 08:39:23 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://tishonator.com/demo1/wp-content/uploads/2025/04/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>167</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-04 06:03:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>365</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-10 08:39:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-10 08:39:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-10 08:39:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-10 08:39:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[galleries]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://tishonator.com/demo1/wp-content/uploads/woocommerce-placeholder.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[167]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:27:"woocommerce-placeholder.png";s:8:"filesize";i:48149;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12321;}s:5:"large";a:5:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:90808;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4209;}s:12:"medium_large";a:5:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:56643;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1503,8 +1607,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-01 06:41:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-01 06:41:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 10:39:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 10:39:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 10:58:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 10:58:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cart]]></wp:post_name>
@@ -1514,7 +1618,11 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/page-nosidebars.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Checkout]]></title>
 		<link>https://tishonator.com/demo1/checkout/</link>
@@ -1609,8 +1717,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-01 06:41:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-01 06:41:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-01 06:41:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-01 06:41:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 10:58:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 10:58:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[checkout]]></wp:post_name>
@@ -1620,7 +1728,11 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/page-nosidebars.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[My account]]></title>
 		<link>https://tishonator.com/demo1/my-account/</link>
@@ -1658,7 +1770,7 @@
 <div style="height:35px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:woocommerce/product-collection {"queryId":0,"query":{"perPage":4,"pages":1,"offset":0,"postType":"product","order":"desc","orderBy":"date","search":"","exclude":[],"inherit":false,"taxQuery":{},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"timeFrame":{"operator":"in","value":"-7 days"},"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"collection":"woocommerce/product-collection/new-arrivals","hideControls":["inherit","order","filterable"],"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
+<!-- wp:woocommerce/product-collection {"queryId":1,"query":{"perPage":4,"pages":1,"offset":0,"postType":"product","order":"desc","orderBy":"date","search":"","exclude":[],"inherit":false,"taxQuery":{},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"timeFrame":{"operator":"not-in","value":"-1 day"},"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"collection":"woocommerce/product-collection/new-arrivals","hideControls":["inherit","order","filterable"],"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
 <div class="wp-block-woocommerce-product-collection"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"bottom":"1rem"}}}} -->
 <h2 class="wp-block-heading has-text-align-center" style="margin-bottom:1rem">New arrivals</h2>
 <!-- /wp:heading -->
@@ -1739,8 +1851,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-02 10:35:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 10:35:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-06 06:46:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-06 06:46:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 21:09:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 21:09:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -2261,8 +2373,85 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Galleries]]></title>
+		<link>https://tishonator.com/demo1/2025/04/12/galleries/</link>
+		<pubDate>Fri, 04 Apr 2025 06:03:44 +0000</pubDate>
+		<dc:creator><![CDATA[tisho2]]></dc:creator>
+		<guid isPermaLink="false">https://tishonator.com/demo1/?p=167</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>167</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-04 06:03:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[galleries]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[167]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/168/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/168/</link>
 		<pubDate>Fri, 04 Apr 2025 06:03:44 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=168</guid>
@@ -2270,10 +2459,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>168</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-04 06:03:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[168]]></wp:post_name>
@@ -2285,6 +2474,18 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -2316,10 +2517,18 @@
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/169/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/169/</link>
 		<pubDate>Fri, 04 Apr 2025 06:03:44 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=169</guid>
@@ -2327,10 +2536,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>169</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-04 06:03:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[169]]></wp:post_name>
@@ -2342,6 +2551,18 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
@@ -2372,6 +2593,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2474,7 +2703,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/177/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/177/</link>
 		<pubDate>Fri, 04 Apr 2025 06:50:20 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=177</guid>
@@ -2482,10 +2711,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>177</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-04 06:50:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[177]]></wp:post_name>
@@ -2497,6 +2726,18 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
@@ -2527,6 +2768,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2633,7 +2882,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/182/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/182/</link>
 		<pubDate>Fri, 04 Apr 2025 07:04:46 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=182</guid>
@@ -2641,10 +2890,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>182</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-04 07:04:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[182]]></wp:post_name>
@@ -2656,6 +2905,18 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
@@ -2687,10 +2948,18 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://tishonator.com/demo1/2025/04/04/191/</link>
+		<link>https://tishonator.com/demo1/2025/04/12/191/</link>
 		<pubDate>Fri, 04 Apr 2025 10:21:27 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
 		<guid isPermaLink="false">https://tishonator.com/demo1/?p=191</guid>
@@ -2698,10 +2967,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>191</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:21:27]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-04-12 20:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-04 10:21:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-04 10:21:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-12 20:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-12 20:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[191]]></wp:post_name>
@@ -2713,6 +2982,22 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="nav_menu" nicename="main_menu"><![CDATA[main_menu]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-08]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
@@ -2743,6 +3028,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-04-11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2855,173 +3144,6 @@
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[demo2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>249</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-templates/page-nosidebars.php]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Demo 3]]></title>
-		<link>https://tishonator.com/demo1/alphana-demos/demo3/</link>
-		<pubDate>Sun, 06 Apr 2025 15:11:25 +0000</pubDate>
-		<dc:creator><![CDATA[tisho2]]></dc:creator>
-		<guid isPermaLink="false">https://tishonator.com/demo1/?page_id=221</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:html -->
-<div id="wp-custom-header" class="wp-custom-header full-width"><img src="https://tishonator.github.io/wp-themes/alphana/demo3/hero.jpg" width="1920" height="1280" alt="" decoding="async" fetchpriority="high" /></div>
-<section id="header-section">
-   <h2 style="color:#FFF;">
-      Busy in Work Life? Don't have Enough Time for Cleaning?					
-   </h2>
-   <div class="landing-content" style="color:#FFF;">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium similique consequuntur velit explicabo inventore sit totam voluptate dolorum.</p>
-   </div>
-   <a class="btn" href="#" >Read more</a>
-</section>
-</div>
-
-
-
-<style>
-#page-header {display:none;}
-</style>
-
-<!-- /wp:html -->
-
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:html -->
-<div class="about__area full-width">
-   <div class="container">
-      <div class="row align-items-center">
-         <div class="col-xl-7 col-lg-7 lg-mb-30">
-            <div class="about__area-left mr-70">
-               <div class="about__area-left-image">
-                  <div class="about__area-left-image-small-img">
-                     <img decoding="async" src="https://tishonator.github.io/wp-themes/alphana/demo3/HomeCleaning.jpg" alt="">
-                  </div>
-                  <div class="about__area-left-image-content">
-                     <p><span class="counter">23</span>+</p>
-                     <p>Years Experience</p>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-xl-5 col-lg-5">
-            <div class="about__area-title-right">
-               <span class="subtitle-one">Company about</span>
-               <h2 class="mb-25">Professional Green house cleaning and eco-maid service.</h2>
-               <p class="mb-40">Aenean velit felis, cursus ac feugiat sit amet, gravida quis orci. Aliquam pretium metus sed odio gravida, nec cursus ipsum auctor. Maecenas quis mauris sodales, efficitur odio eget, viverra purus. Donec ac magna pharetra,</p>
-               <div class="row align-items-center mb-40">
-                  <div class="col-sm-6 pr-10">
-                     <div class="about__area-title-right-author">
-                        <div class="about__area-title-right-author-text">
-                           <h4>Willis Marsh</h4>
-                           <p>Founder CEO</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-6 pl-0">
-                  </div>
-               </div>
-               <a class="theme-btn" href="#">Discover More<i class="flaticon-right-arrow"></i></a>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-
-<!-- /wp:html -->
-
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Get clear solution answer FAQ</h2>
-<!-- /wp:heading -->
-
-<!-- wp:html -->
-<div class="faq__area-right">
-   <div class="faq__area-collapse">
-      <div class="faq__area-collapse-item">
-         <div class="faq__area-collapse-item-card">
-            <div class="faq__area-collapse-item-card-header">
-               <h4>01. What do you clean before cleaning?</h4>
-               <i class="fa fa-minus"></i>
-            </div>
-            <div class="faq__area-collapse-item-card-header-content active">
-               <p>Nullam at odio dictum, tempus nibh vel, gravida purus. Nunc placerat, sapien ut malesuada tristique, nulla felis cursus nulla, ut pretium diam nunc eu turpis.</p>
-            </div>
-         </div>
-      </div>
-      <div class="faq__area-collapse-item">
-         <div class="faq__area-collapse-item-card">
-            <div class="faq__area-collapse-item-card-header">
-               <h4>02. How much is a cleaner per hour?</h4>
-               <i class="fa fa-plus"></i>
-            </div>
-            <div class="faq__area-collapse-item-card-header-content display-none">
-               <p>Nullam at odio dictum, tempus nibh vel, gravida purus. Nunc placerat, sapien ut malesuada tristique, nulla felis cursus nulla, ut pretium diam nunc eu turpis.</p>
-            </div>
-         </div>
-      </div>
-      <div class="faq__area-collapse-item m-0">
-         <div class="faq__area-collapse-item-card">
-            <div class="faq__area-collapse-item-card-header">
-               <h4>03. Do you pay cleaners before or after?</h4>
-               <i class="fa fa-plus"></i>
-            </div>
-            <div class="faq__area-collapse-item-card-header-content display-none">
-               <p>Nullam at odio dictum, tempus nibh vel, gravida purus. Nunc placerat, sapien ut malesuada tristique, nulla felis cursus nulla, ut pretium diam nunc eu turpis.</p>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-
-<!-- /wp:html -->
-
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Our Cleaning Experts</h2>
-<!-- /wp:heading -->
-
-<!-- wp:tishonator/team-members-block -->
-<div class="wp-block-tishonator-team-members-block">Team Members</div>
-<!-- /wp:tishonator/team-members-block -->
-
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Customers Feedback</h2>
-<!-- /wp:heading -->
-
-<!-- wp:tishonator/testimonials-block -->
-<div class="wp-block-tishonator-testimonials-block">Testimonials</div>
-<!-- /wp:tishonator/testimonials-block -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>221</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-06 15:11:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-06 15:11:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-06 16:40:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-06 16:40:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[demo3]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>249</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3285,112 +3407,170 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Product 1]]></title>
-		<link>https://tishonator.com/demo1/product/product-1/</link>
-		<pubDate>Fri, 04 Apr 2025 10:18:59 +0000</pubDate>
+		<title><![CDATA[Demo 3]]></title>
+		<link>https://tishonator.com/demo1/alphana-demos/demo3/</link>
+		<pubDate>Sun, 06 Apr 2025 15:11:25 +0000</pubDate>
 		<dc:creator><![CDATA[tisho2]]></dc:creator>
-		<guid isPermaLink="false">https://tishonator.com/demo1/?post_type=product&#038;p=190</guid>
+		<guid isPermaLink="false">https://tishonator.com/demo1/?page_id=221</guid>
 		<description></description>
-		<content:encoded><![CDATA[Product 1 is designed for comfort, efficiency, and style. Whether you're at home or on the move, this product adapts to your lifestyle. Built with quality materials and engineered for durability, it's a reliable choice for anyone.]]></content:encoded>
-		<excerpt:encoded><![CDATA[A modern and versatile item perfect for everyday use.]]></excerpt:encoded>
-		<wp:post_id>190</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-04 10:18:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-04 10:18:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-05 21:05:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-05 21:05:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<content:encoded><![CDATA[<!-- wp:html -->
+<div id="wp-custom-header" class="wp-custom-header full-width"><img src="https://tishonator.github.io/wp-themes/alphana/demo3/hero.jpg" width="1920" height="1280" alt="" decoding="async" fetchpriority="high" /></div>
+<section id="header-section">
+   <h2 style="color:#FFF;">
+      Busy in Work Life? Don't have Enough Time for Cleaning?					
+   </h2>
+   <div class="landing-content" style="color:#FFF;">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium similique consequuntur velit explicabo inventore sit totam voluptate dolorum.</p>
+   </div>
+   <a class="btn" href="#" >Read more</a>
+</section>
+</div>
+
+
+
+<style>
+#page-header {display:none;}
+</style>
+
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:html -->
+<div class="about__area full-width">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-xl-7 col-lg-7 lg-mb-30">
+            <div class="about__area-left mr-70">
+               <div class="about__area-left-image">
+                  <div class="about__area-left-image-small-img">
+                     <img decoding="async" src="https://tishonator.github.io/wp-themes/alphana/demo3/HomeCleaning.jpg" alt="">
+                  </div>
+                  <div class="about__area-left-image-content">
+                     <p><span class="counter">23</span>+</p>
+                     <p>Years Experience</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xl-5 col-lg-5">
+            <div class="about__area-title-right">
+               <span class="subtitle-one">Company about</span>
+               <h2 class="mb-25">Professional Green house cleaning and eco-maid service.</h2>
+               <p class="mb-40">Aenean velit felis, cursus ac feugiat sit amet, gravida quis orci. Aliquam pretium metus sed odio gravida, nec cursus ipsum auctor. Maecenas quis mauris sodales, efficitur odio eget, viverra purus. Donec ac magna pharetra,</p>
+               <div class="row align-items-center mb-40">
+                  <div class="col-sm-6 pr-10">
+                     <div class="about__area-title-right-author">
+                        <div class="about__area-title-right-author-text">
+                           <h4>Willis Marsh</h4>
+                           <p>Founder CEO</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-sm-6 pl-0">
+                  </div>
+               </div>
+               <a class="theme-btn" href="#">Discover More<i class="flaticon-right-arrow"></i></a>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Get clear solution answer FAQ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<div class="faq__area-right">
+   <div class="faq__area-collapse">
+      <div class="faq__area-collapse-item">
+         <div class="faq__area-collapse-item-card">
+            <div class="faq__area-collapse-item-card-header">
+               <h4>01. What do you clean before cleaning?</h4>
+               <i class="fa fa-minus"></i>
+            </div>
+            <div class="faq__area-collapse-item-card-header-content active">
+               <p>Nullam at odio dictum, tempus nibh vel, gravida purus. Nunc placerat, sapien ut malesuada tristique, nulla felis cursus nulla, ut pretium diam nunc eu turpis.</p>
+            </div>
+         </div>
+      </div>
+      <div class="faq__area-collapse-item">
+         <div class="faq__area-collapse-item-card">
+            <div class="faq__area-collapse-item-card-header">
+               <h4>02. How much is a cleaner per hour?</h4>
+               <i class="fa fa-plus"></i>
+            </div>
+            <div class="faq__area-collapse-item-card-header-content display-none">
+               <p>Nullam at odio dictum, tempus nibh vel, gravida purus. Nunc placerat, sapien ut malesuada tristique, nulla felis cursus nulla, ut pretium diam nunc eu turpis.</p>
+            </div>
+         </div>
+      </div>
+      <div class="faq__area-collapse-item m-0">
+         <div class="faq__area-collapse-item-card">
+            <div class="faq__area-collapse-item-card-header">
+               <h4>03. Do you pay cleaners before or after?</h4>
+               <i class="fa fa-plus"></i>
+            </div>
+            <div class="faq__area-collapse-item-card-header-content display-none">
+               <p>Nullam at odio dictum, tempus nibh vel, gravida purus. Nunc placerat, sapien ut malesuada tristique, nulla felis cursus nulla, ut pretium diam nunc eu turpis.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Our Cleaning Experts</h2>
+<!-- /wp:heading -->
+
+<!-- wp:tishonator/team-members-block -->
+<div class="wp-block-tishonator-team-members-block">Team Members</div>
+<!-- /wp:tishonator/team-members-block -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Customers Feedback</h2>
+<!-- /wp:heading -->
+
+<!-- wp:tishonator/testimonials-block -->
+<div class="wp-block-tishonator-testimonials-block">Testimonials</div>
+<!-- /wp:tishonator/testimonials-block -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>221</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-06 15:11:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-06 15:11:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-06 16:40:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-06 16:40:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[product-1]]></wp:post_name>
+		<wp:post_name><![CDATA[demo3]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>249</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_tag" nicename="accessories"><![CDATA[Accessories]]></category>
-		<category domain="product_cat" nicename="accessories"><![CDATA[Accessories]]></category>
-		<category domain="product_tag" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="product_cat" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-		<wp:meta_value><![CDATA[PRO-001]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29.99]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><br />
-<b>Deprecated</b>:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in <b>/home/fatedrea/public_html/demo1/wp-includes/formatting.php</b> on line <b>885</b><br />
-<br />
-<b>Deprecated</b>:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in <b>/home/fatedrea/public_html/demo1/wp-admin/includes/export.php</b> on line <b>250</b><br />
-<![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9.7.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29.99]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/page-nosidebars.php]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5386,30 +5566,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>https://tishonator.com/demo1/2025/04/01/navigation/</link>
-		<pubDate>Tue, 01 Apr 2025 06:24:20 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://tishonator.com/demo1/2025/04/01/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-01 06:24:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-01 06:24:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-01 06:24:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-01 06:24:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Lunexa Pulse Method]]></title>
 		<link>https://tishonator.com/demo1/project/corporate-rebranding-package/</link>
 		<pubDate>Wed, 02 Apr 2025 17:51:12 +0000</pubDate>
@@ -5902,6 +6058,115 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Product 1]]></title>
+		<link>https://tishonator.com/demo1/product/product-1/</link>
+		<pubDate>Fri, 04 Apr 2025 10:18:59 +0000</pubDate>
+		<dc:creator><![CDATA[tisho2]]></dc:creator>
+		<guid isPermaLink="false">https://tishonator.com/demo1/?post_type=product&#038;p=190</guid>
+		<description></description>
+		<content:encoded><![CDATA[Product 1 is designed for comfort, efficiency, and style. Whether you're at home or on the move, this product adapts to your lifestyle. Built with quality materials and engineered for durability, it's a reliable choice for anyone.]]></content:encoded>
+		<excerpt:encoded><![CDATA[A modern and versatile item perfect for everyday use.]]></excerpt:encoded>
+		<wp:post_id>190</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-04 10:18:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-04 10:18:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-05 21:05:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-05 21:05:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="accessories"><![CDATA[Accessories]]></category>
+		<category domain="product_tag" nicename="accessories"><![CDATA[Accessories]]></category>
+		<category domain="product_cat" nicename="featured"><![CDATA[Featured]]></category>
+		<category domain="product_tag" nicename="featured"><![CDATA[Featured]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+		<wp:meta_value><![CDATA[PRO-001]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[29.99]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><br />
+<b>Deprecated</b>:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in <b>/home/fatedrea/public_html/demo1/wp-includes/formatting.php</b> on line <b>885</b><br />
+<br />
+<b>Deprecated</b>:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in <b>/home/fatedrea/public_html/demo1/wp-admin/includes/export.php</b> on line <b>250</b><br />
+<![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9.7.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[29.99]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Product 2]]></title>
 		<link>https://tishonator.com/demo1/product/product-2/</link>
 		<pubDate>Sat, 05 Apr 2025 20:55:12 +0000</pubDate>
@@ -5927,8 +6192,8 @@
 										<category domain="product_cat" nicename="essentials"><![CDATA[Essentials]]></category>
 		<category domain="product_tag" nicename="essentials"><![CDATA[Essentials]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="trending"><![CDATA[Trending]]></category>
 		<category domain="product_tag" nicename="trending"><![CDATA[Trending]]></category>
+		<category domain="product_cat" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -6469,8 +6734,8 @@
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="best-sellers"><![CDATA[Best Sellers]]></category>
-		<category domain="product_tag" nicename="best-sellers"><![CDATA[Best Sellers]]></category>
+										<category domain="product_tag" nicename="best-sellers"><![CDATA[Best Sellers]]></category>
+		<category domain="product_cat" nicename="best-sellers"><![CDATA[Best Sellers]]></category>
 		<category domain="product_cat" nicename="featured"><![CDATA[Featured]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="tools"><![CDATA[Tools]]></category>
@@ -6664,6 +6929,30 @@
 		<wp:meta_value><![CDATA[33.30]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://tishonator.com/demo1/2025/04/01/navigation/</link>
+		<pubDate>Tue, 01 Apr 2025 06:24:20 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://tishonator.com/demo1/2025/04/01/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-01 06:24:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-01 06:24:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-01 06:24:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-01 06:24:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 				</channel>
 </rss>
 	
